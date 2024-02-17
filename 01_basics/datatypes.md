@@ -6,7 +6,7 @@
 - Lists: [1, [2, 'three'], 4.5], list(range(10))
 - Tuple: (1, 'spam', 4, 'U'),tuple('spam'),namedtuple
 
-- [ ] brackets
+- [] brackets
 - ( ) parentheses
 - { } braces
 - { : } colon
