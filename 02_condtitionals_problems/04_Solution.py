@@ -10,6 +10,5 @@ if fruit =="Banana":
         print("Ripe")
     elif color == "Brown":
         print("OverRipe")
-
 else:
     print("No information for this fruit")
