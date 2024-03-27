@@ -1,4 +1,5 @@
 # Problem: Create a function that takes two numbers as parameters and returns their sum.
+
 a = int(input("Enter a first number:-"))
 b = int(input("Enter a second number:-"))
 
